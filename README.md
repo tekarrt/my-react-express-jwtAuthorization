@@ -5,7 +5,7 @@
 - Clone the repo
   
   ```bash
-  git clone https://github.com/tekarrt/my-react-express-jwtAuthorization.git
+  git clone https://github.com/tekarrt/my-template-jwt-authorization.git
   ```
 
 - Install the NPM packages in the client and server directories
